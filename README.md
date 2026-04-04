@@ -76,18 +76,6 @@ A lightweight ticketing and kanban-style system for tracking internal tickets, i
 
 ---
 
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cloverings1/cloverings1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cloverings1/cloverings1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/cloverings1/cloverings1/output/github-snake-dark.svg" />
-</picture>
-
-> ⚙️ *Snake animation requires a GitHub Action — see setup instructions below.*
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
