@@ -76,14 +76,6 @@ A lightweight ticketing and kanban-style system for tracking internal tickets, i
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Achievements](https://github-profile-trophy.vercel.app/?username=cloverings1&theme=onestar&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15)
-
-</div>
-
 ---
 
 <div align="center">
