@@ -10,9 +10,7 @@
   </a>
 </p>
 
-## Mostly working on
+## Right now
 
-- TypeScript and React
-- Supabase and Postgres
-- Upload and download flows
-- Krevo's web dashboard and Mac app
+Building Krevo's web dashboard, upload/download flows, and Mac app.
+Mostly using TypeScript, React, Supabase, and Postgres.
